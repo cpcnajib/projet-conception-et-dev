@@ -1,5 +1,5 @@
 # projet-conception-et-dev
-Lecture de coran, recherche et invstigation des similitudes syntaxiques dans le Coran 
+
 
 
 Le Coran est décomposé en sourats qui sont triées selon deux types d’ordres : ordre d’apparition (1-114) et

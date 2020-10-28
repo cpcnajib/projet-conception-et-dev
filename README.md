@@ -1,5 +1,7 @@
 # projet-conception-et-dev
 Lecture de coran, recherche et invstigation des similitudes syntaxiques dans le Coran 
+
+
 Le Coran est décomposé en sourats qui sont triées selon deux types d’ordres : ordre d’apparition (1-114) et
 ordre de révélation (Tanzil) L’islam accorde une importance pour l’apprentissage et la récitation du coran ; le
 Prophète , exhortait ses Compagnons, en la matière en disant :« Le meilleur d’entre vous est celui qui apprend
